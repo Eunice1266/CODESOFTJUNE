@@ -1,8 +1,5 @@
 # TO DO LIST - TASK 1
 
-# Simple To-Do List Program using Python
-# By: [Your Name] | For CodSoft Internship Task
-
 def load_list():
     try:
         file = open("todo.txt", "r")
